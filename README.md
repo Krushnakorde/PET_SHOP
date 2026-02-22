@@ -27,8 +27,3 @@ I followed a **Feature-based/Layered Architecture** to ensure the code is mainta
 - `/src/screens`: High-level views orchestrating data flow.
 
 **Why Zustand?** I chose Zustand over Redux or Context API because it provides a much simpler boilerplate while maintaining high performance for global state like a shopping cart.
-
-## 📥 Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-link>
